@@ -1,0 +1,32 @@
+table {
+    border: 2px solid black;
+}
+
+#a {
+    background-color: aqua;
+    height: 20px;
+}
+#b {
+    background-color: rgb(20, 209, 209);
+    height: 20px;
+}
+#c {
+    background-color: rgb(36, 177, 177);
+    height: 20px;
+}
+#d {
+    background-color: rgb(40, 158, 158);
+    height: 20px;
+}
+#e {
+    background-color: rgb(43, 141, 141);
+    height: 20px;
+}
+#f {
+    background-color: rgb(42, 119, 119);
+    height: 20px;
+}
+#g {
+    background-color: rgb(39, 95, 95);
+    height: 20px;
+}
